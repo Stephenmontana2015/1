@@ -1,0 +1,51 @@
+//#test {
+  color: gray;
+}
+*{margin:auto;
+padding:0px;
+}
+#main-header{
+color:white;
+background-color:blue;
+}
+.formgroup{
+padding-bottom:20px;
+}
+.myform label{
+display:block;
+color:white;
+}
+.myform input[type="text"],.myform input[type="number"]{
+width:93%;
+}
+.button{
+background-color:#333;
+color:red;
+}
+.myform:hover{
+background-color:lightskyblue;
+color:white;
+border:1px blue solid;
+}
+.myform{
+background-color:#440000;
+}
+#main-footer{
+padding:35px;
+background-color:#bb3333;
+color:white;
+}
+#showcase{
+background-image:url("img/20210913213558.png");
+min-height:200px;
+background-position:center center;
+padding-top:35px;
+color:white;
+font-size:20px;
+padding-left:30px;
+background-color:yellow;
+//background-blend-mode:saturation;
+}
+#navbar{
+background-color:black;
+}
